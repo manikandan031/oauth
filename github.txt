@@ -1,0 +1,3 @@
+clientid=bf2f42153ab5f8f9da91
+clientsecret=701620eb4fd159a6507efb67b50b4b92fa28363e
+callbackurl=http://localhost:8080/oauth/home
