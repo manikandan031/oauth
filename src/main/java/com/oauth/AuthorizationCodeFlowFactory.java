@@ -26,7 +26,7 @@ public class AuthorizationCodeFlowFactory {
 				new NetHttpTransport(),
 				new JacksonFactory(),
 				new GenericUrl("https://github.com/login/oauth/access_token"),
-				new ClientParametersAuthentication("bf2f42153ab5f8f9da91", "701620eb4fd159a6507efb67b50b4b92fa28363e"),
+				new ClientParametersAuthentication("/*Client ID*/", "/*Client Secret*/"),
 				"bf2f42153ab5f8f9da91",
 				"https://github.com/login/oauth/authorize").setScopes(Collections.singletonList("user:email")).
 				setDataStoreFactory(FILE_DATA_STORE_FACTORY).
