@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/springboot-jwt-auth-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/bcg/lambda-spike/spring-boot-serverless" value="PREVIEW" />
+        <entry key="$USER_HOME$/bcg/msp-catalyst-pattern-migrations" value="PREVIEW" />
+        <entry key="$USER_HOME$/bcg/msp-catalyst-platform" value="PREVIEW" />
+        <entry key="$USER_HOME$/bootcamp/just-cinemas-services" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-be" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-cdc-fgvs" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-cdc-pp" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-crontab" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-ea" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-ea-bff" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-epa-migration" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-il" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-il-doc" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-il-ea-messaging" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-il-fgvs" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-il-folder" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-il-mappa-cics" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-il-pp" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-inv" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-lb" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-lbal" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-lib-damaged-party-key" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-lib-http-proxy" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-lib-jdbi" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-lib-messaging" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-ins-lib-sap" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-shc-notification-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-sin-claims-dashboard-bff" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-sin-maestro-il-jdbc" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-sin-shared-il-jdbc" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-sin-task-proxy-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/generali/src-sc-0102-sin-user-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../http2/demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../springboot/spring-jwt-auth" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../springboot/springboot-jwt-auth-demo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="gradle.experimental" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
